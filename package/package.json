@@ -1,0 +1,20 @@
+{
+  "name": "npm-base-dotkjs",
+  "version": "1.0.0",
+  "description": "Base npm library",
+  "main": "src/index.js",
+  "typ": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidperezsimon/npm-base-dotkjs.git"
+  },
+  "author": "David Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidperezsimon/npm-base-dotkjs/issues"
+  },
+  "homepage": "https://github.com/davidperezsimon/npm-base-dotkjs#readme"
+}
